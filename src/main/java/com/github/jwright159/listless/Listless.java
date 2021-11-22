@@ -9,8 +9,8 @@ import org.apache.logging.log4j.Logger;
 @Mod(modid = Listless.MODID, name = Listless.NAME, version = Listless.VERSION)
 public class Listless
 {
-	public static final String MODID = "minestuckgodtier";
-	public static final String NAME = "Minestuck God Tier";
+	public static final String MODID = "listless";
+	public static final String NAME = "Listless";
 	public static final String VERSION = "@VERSION@";
 
 	@Mod.Instance(MODID)
