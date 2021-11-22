@@ -1,0 +1,16 @@
+[
+  {
+    "modid": "listless",
+    "name": "Listless",
+    "description": "List all item IDs.",
+    "version": "${version}",
+    "mcversion": "${mcversion}",
+    "url": "",
+    "updateUrl": "",
+    "authorList": ["JDubSupreme"],
+    "credits": "",
+    "logoFile": "",
+    "screenshots": [],
+    "dependencies": []
+  }
+]
